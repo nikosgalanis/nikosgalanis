@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## About 
+## About me
 
 
 [![CV][8_icon]][6]
@@ -23,7 +23,7 @@
 
 <div>
 
-- 🎓 Currently a Master's student in Information Security @ <a href="https://www.ucl.ac.uk"> , School of Engineering, UCL</a>
+- 🎓 Currently a Master's Student in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
 
 - 🎓 Bachelor's Degree (Hons) in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
   
