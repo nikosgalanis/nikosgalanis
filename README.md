@@ -35,9 +35,10 @@
 - ❗ Interested in:
   - Data Privacy
   - Cyber Security
-  - Machine Learning
+  - (Adversarial) Machine Learning
   - Data Science 
   - Artificial Intelligence
+  - Privacy Enhancing Techniques
 </div>
 
 ## Languages and Tools
