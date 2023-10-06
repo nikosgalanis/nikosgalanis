@@ -14,7 +14,7 @@
 
 [4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
 
-[8_icon]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black
+[8_icon]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/EStEbtJTrjlPizOddg6UfTUB-NmXpfIpA9qpQy4BlZN7RQ?e=8a2GtZ
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
