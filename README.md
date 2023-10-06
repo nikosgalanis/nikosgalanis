@@ -13,13 +13,12 @@
 
 
 [4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
-
-[8_icon]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/EStEbtJTrjlPizOddg6UfTUB-NmXpfIpA9qpQy4BlZN7RQ?e=8a2GtZ
+[8_icon]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 [4]: https://www.linkedin.com/in/nikos-galanis/
-[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/Eb87OnkUt7tPkc0kZj8SGj4BwItw62DLsDijnq-5zBCdVg?e=Tlo5m8
+[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/EStEbtJTrjlPizOddg6UfTUB-NmXpfIpA9qpQy4BlZN7RQ?e=8a2GtZ
 
 <div>
 
