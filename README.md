@@ -19,7 +19,7 @@
 
 
 [4]: https://www.linkedin.com/in/nikos-galanis/
-[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/EYpeyQIGrBlPj2-9krHR7SIBXvWDVMJNbnjqR24Yel0cFg?e=fbqCGy
+[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/Eb87OnkUt7tPkc0kZj8SGj4BwItw62DLsDijnq-5zBCdVg?e=Tlo5m8
 
 <div>
 
