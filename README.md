@@ -24,7 +24,7 @@
 
 - 🔒👨‍💻 Security Engineer @ <a href="https://canonical.com/"> Canonical | Ubuntu</a>
 
-- 🎓 Master's Degree in Information Security (First Class Honours) @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
+- 🎓 Master's Degree (First Class Honours) in Information Security @ <a href="https://www.ucl.ac.uk"> School of Engineering, UCL</a>
 
 - 🎓 Bachelor's Degree (First Class Honours) in Computer Science @ <a href="https://www.di.uoa.gr/en">Department of Informatics and Telecommunications, NKUA</a>
 
