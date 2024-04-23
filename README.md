@@ -34,11 +34,11 @@
 
 - ❗ Interested in:
   - Data Privacy
+  - Privacy Enhancing Techniques
   - Cyber Security
   - (Adversarial) Machine Learning
   - Data Science 
   - Artificial Intelligence
-  - Privacy Enhancing Techniques
 </div>
 
 ## Languages and Tools
@@ -84,10 +84,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
-
-## Github Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikosgalanis&show_icons=true&count_private=true&hide_border=true" width="50%" />
-</p>
-
