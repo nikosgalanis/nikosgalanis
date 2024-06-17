@@ -18,8 +18,7 @@
 
 
 [4]: https://www.linkedin.com/in/nikos-galanis/
-[6]: https://liveuclac-my.sharepoint.com/:b:/g/personal/ucabng2_ucl_ac_uk/EStEbtJTrjlPizOddg6UfTUB-NmXpfIpA9qpQy4BlZN7RQ?e=8a2GtZ
-
+[6]: ./CV.pdf
 <div>
 
 - 🔒👨‍💻 Security Engineer @ <a href="https://canonical.com/"> Canonical | Ubuntu</a>
